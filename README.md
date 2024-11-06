@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-Welcome to the Pulmonary_Detection project, a collaboration between Moonshot AI and the Orthopedic Department of Wuhan Fourth Hospital. This project aims to analyze patient data to predict pulmonary complications using machine learning techniques. The data used in this project has been collected with informed consent from patients.
+Welcome to the Pulmonary_Detection project, a collaboration between me and the Orthopedic Department of Wuhan Fourth Hospital. This project aims to analyze patient data to predict pulmonary complications using machine learning techniques. The data used in this project has been collected with informed consent from patients.
 
 ## 📁 Contents
 
